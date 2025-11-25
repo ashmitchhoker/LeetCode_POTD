@@ -12,5 +12,3 @@ int smallestRepunitDivByK(int k){
     }
     return -1;
 }
-
-
